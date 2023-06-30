@@ -15,7 +15,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
       - run: cp -a dist/github-snake.svg .
-      - run: git check out -b "Tmp"
+      - run: git checkout -b "Tmp"
       - run: git add . 
       - run: git commit -m "Tmp" 
       - run: git push --set-upstream origin Tmp
