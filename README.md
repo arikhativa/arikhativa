@@ -4,20 +4,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2023 - To: 17 August 2023
+From: 29 June 2023 - To: 18 August 2023
 
-Total Time: 55 hrs 4 mins
+Total Time: 55 hrs 37 mins
 
-C++                        42 hrs 22 mins  >>>>>>>>>>>>>>>>>>>------   76.92 %
-Other                      3 hrs 9 mins    >------------------------   05.74 %
-Nginx configuration file   2 hrs 50 mins   >------------------------   05.17 %
-PHP                        1 hr 35 mins    >------------------------   02.90 %
-YAML                       1 hr 35 mins    >------------------------   02.89 %
-Python                     1 hr 6 mins     >------------------------   02.01 %
-Git                        36 mins         -------------------------   01.11 %
+C++                        42 hrs 54 mins  >>>>>>>>>>>>>>>>>>>------   77.14 %
+Other                      3 hrs 9 mins    >------------------------   05.68 %
+Nginx configuration file   2 hrs 50 mins   >------------------------   05.12 %
+PHP                        1 hr 35 mins    >------------------------   02.88 %
+YAML                       1 hr 35 mins    >------------------------   02.86 %
+Python                     1 hr 6 mins     -------------------------   01.99 %
+Git                        36 mins         -------------------------   01.10 %
 HTML                       26 mins         -------------------------   00.80 %
 Markdown                   21 mins         -------------------------   00.65 %
-Bash                       20 mins         -------------------------   00.62 %
+Bash                       20 mins         -------------------------   00.61 %
 ```
 
 <!--END_SECTION:waka-->
