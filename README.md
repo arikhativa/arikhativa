@@ -1,9 +1,9 @@
 
-## Heyyy (about me)
-my name is Yoav Rabby and I am a software developer with 2 years of experience.
+# Hey :)
+My name is Yoav Rabby and I am a software developer with 2 years of experience.
 Currently a student at 42 Madrid.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -12,9 +12,9 @@ Currently a student at 42 Madrid.
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
-
 ## GitHub stats:
-![Yoav GitHub stats](https://github-readme-stats.vercel.app/api?username=arikhativa&show_icons=true&bg_color=00000000)
+[![Yoav's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=arikhativa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/arikhativa/github-readme-stats#gh-light-mode-only)
+[![Yoav's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=arikhativa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/arikhativa/github-readme-stats#gh-light-mode-only)
 
 ## WakaTime stats:
 ```txt
