@@ -25,8 +25,34 @@ Currently a student at 42 Madrid.
 </a>
 
 <!--START_SECTION:waka-->
-## Languages I'm working on now
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+HTML                     18 mins             ████████████░░░░░░░░░░░░░   47.66 % 
+TypeScript               11 mins             ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+Nginx configuration file 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+
+🔥 Editors: 
+VS Code                  38 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+transcendence            38 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      38 mins             █████████████████████████   100.00 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/arikhativa/arikhativa/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/10/2023 10:54:57 UTC
 <!--END_SECTION:waka-->
 
 <picture>
