@@ -4,14 +4,14 @@ My name is Yoav Rabby and I am a software developer with 2 years of experience.
 Currently a student at 42 Madrid.
 
 ## Technologies & Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)
 ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
 ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
-![C++](https://img.shields.io/badge/C++-06062C?style=flat-square&logo=C++)
+![CPP](https://img.shields.io/badge/CPP-06062C?style=flat-square&logo=CPP)
 ![C](https://img.shields.io/badge/C-06062C?style=flat-square&logo=C)
 ![Docker](https://img.shields.io/badge/Docker-06062C?style=flat-square&logo=Docker)
 
