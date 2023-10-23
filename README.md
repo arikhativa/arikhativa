@@ -4,16 +4,17 @@ My name is Yoav Rabby and I am a software developer with 2 years of experience.
 Currently a student at 42 Madrid.
 
 ## Technologies & Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-coral?style=flat-square&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/Docker-6495ED?style=flat-square&logo=Docker)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-cyan?style=flat-square&logo=elasticsearch)
 ![Logstash](https://img.shields.io/badge/Logstash-yellow?style=flat-square&logo=logstash)
-![Golang](https://img.shields.io/badge/Golang-cyan?style=flat-square&logo=go)
+![Postman](https://shields.io/badge/Postman-FFD6C7?logo=Postman&logoColor=FFF&style=flat-square)
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)
+![TS](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![Golang](https://img.shields.io/badge/Golang-cyan?style=flat-square&logo=go)
 ![CPP](https://img.shields.io/badge/CPP-00BFFF?style=flat-square&logo=CPP)
 ![C](https://img.shields.io/badge/C-F0F8FF?style=flat-square&logo=C)
-![Docker](https://img.shields.io/badge/Docker-6495ED?style=flat-square&logo=Docker)
 
 ## GitHub stats:
 <a href="https://github.com/arikhativa/arikhativa">
