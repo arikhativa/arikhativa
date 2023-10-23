@@ -4,7 +4,7 @@ My name is Yoav Rabby and I am a software developer with 2 years of experience.
 Currently a student at 42 Madrid.
 
 ## Technologies & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/Docker-E9F8FF?style=flat-square&logo=Docker)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-F8FDC5?style=flat-square&logo=elasticsearch&logoColor=lightblue)
