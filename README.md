@@ -25,7 +25,7 @@ Currently a student at 42 Madrid.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%208%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,12 +47,8 @@ transcendence            38 mins             ███████████�
 WSL                      38 mins             █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arikhativa/arikhativa/main/assets/bar_graph.png)
-
-
- Last Updated on 23/10/2023 10:54:57 UTC
+ Last Updated on 23/10/2023 11:13:51 UTC
 <!--END_SECTION:waka-->
 
 <picture>
