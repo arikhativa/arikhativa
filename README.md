@@ -13,8 +13,8 @@ Currently a student at 42 Madrid.
 
 
 ## GitHub stats:
-[![Yoav's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=arikhativa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/arikhativa/github-readme-stats#gh-light-mode-only)
-[![Yoav's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=arikhativa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/arikhativa/github-readme-stats#gh-light-mode-only)
+![Yoav's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=arikhativa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/arikhativa/github-readme-stats#gh-light-mode-only)
+<!-- [![Yoav's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=arikhativa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/arikhativa/github-readme-stats#gh-light-mode-only) -->
 
 ## WakaTime stats:
 ```txt
