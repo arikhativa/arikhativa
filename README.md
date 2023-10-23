@@ -4,8 +4,8 @@ My name is Yoav Rabby and I am a software developer with 2 years of experience.
 Currently a student at 42 Madrid.
 
 ## Technologies & Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-teal?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-teal?style=flat-square&logo=postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-green?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-blue?style=flat-square&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)
