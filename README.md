@@ -1,8 +1,22 @@
 
-[![yrabby's 42 stats](https://badge42.vercel.app/api/v2/cljfd5ku6003508mg283uc00s/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
+## Heyyy (about me)
+my name is Yoav Rabby and I am a software developer with 2 years of experience.
+Currently a student at 42 Madrid.
 
-<!--START_SECTION:waka-->
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+
+
+## GitHub stats:
+![Yoav GitHub stats](https://github-readme-stats.vercel.app/api?username=arikhativa&show_icons=true&bg_color=00000000)
+
+## WakaTime stats:
 ```txt
 From: 29 June 2023 - To: 04 July 2023
 
