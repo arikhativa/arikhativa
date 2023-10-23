@@ -4,13 +4,16 @@ My name is Yoav Rabby and I am a software developer with 2 years of experience.
 Currently a student at 42 Madrid.
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)
+![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
+![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
+![C++](https://img.shields.io/badge/C++-06062C?style=flat-square&logo=C++)
+![C](https://img.shields.io/badge/C-06062C?style=flat-square&logo=C)
+![Docker](https://img.shields.io/badge/Docker-06062C?style=flat-square&logo=Docker)
 
 ## GitHub stats:
 <a href="https://github.com/arikhativa/arikhativa">
