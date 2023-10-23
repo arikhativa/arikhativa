@@ -18,17 +18,20 @@ Currently a student at 42 Madrid.
 
 ## WakaTime stats:
 ```txt
-From: 29 June 2023 - To: 04 July 2023
+From: 29 June 2023 - To: 21 October 2023
 
-Total Time: 1 hr 13 mins
+Total Time: 129 hrs 28 mins
 
-C++        22 mins         >>>>>>>>-----------------   31.05 %
-Markdown   20 mins         >>>>>>>------------------   28.34 %
-Other      18 mins         >>>>>>-------------------   25.45 %
-C          7 mins          >>>----------------------   10.23 %
-YAML       3 mins          >------------------------   04.59 %
-Text       0 secs          -------------------------   00.32 %
-Makefile   0 secs          -------------------------   00.02 %
+C++                        72 hrs 57 mins  >>>>>>>>>>>>>>-----------   56.34 %
+YAML                       8 hrs 15 mins   >>-----------------------   06.38 %
+Nginx configuration file   6 hrs 50 mins   >------------------------   05.29 %
+Bash                       6 hrs 26 mins   >------------------------   04.98 %
+Docker                     6 hrs 3 mins    >------------------------   04.67 %
+Other                      4 hrs 53 mins   >------------------------   03.78 %
+PHP                        4 hrs 10 mins   >------------------------   03.22 %
+JavaScript                 4 hrs           >------------------------   03.10 %
+Python                     2 hrs 44 mins   >------------------------   02.12 %
+HTML                       2 hrs 10 mins   -------------------------   01.68 %
 ```
 
 <!--END_SECTION:waka-->
