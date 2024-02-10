@@ -51,17 +51,16 @@ Currently a student at 42 Madrid.
 
 ```text
 💬 Programming Languages: 
-Bash                     26 mins             ████████████████░░░░░░░░░   65.32 % 
-Other                    14 mins             █████████░░░░░░░░░░░░░░░░   34.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-avodaplusapp             40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -77,7 +76,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2024 00:46:53 UTC
+ Last Updated on 10/02/2024 00:46:54 UTC
 <!--END_SECTION:waka-->
 
 <picture>
