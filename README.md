@@ -35,32 +35,6 @@ Currently a student at 42 Madrid.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8957 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-🌆 Daytime                27365 commits       ███████████████░░░░░░░░░░   58.19 % 
-🌃 Evening                9754 commits        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-🌙 Night                  950 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -74,7 +48,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 00:48:15 UTC
+ Last Updated on 11/04/2024 00:48:44 UTC
 <!--END_SECTION:waka-->
 
 <picture>
