@@ -76,9 +76,3 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
  Last Updated on 14/04/2024 00:51:24 UTC
 <!--END_SECTION:waka-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arikhativa/arikhativa/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/arikhativa/arikhativa/blob/output/github-contribution-grid-snak.svg" />
-  <img alt="github-snake" src="https://github.com/arikhativa/arikhativa/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
