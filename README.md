@@ -29,7 +29,7 @@ Currently a student at 42 Madrid.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 133 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -51,16 +51,22 @@ Currently a student at 42 Madrid.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 2 mins         ████████████░░░░░░░░░░░░░   49.83 % 
+Vue.js                   47 mins             █████████░░░░░░░░░░░░░░░░   37.80 % 
+GraphQL                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+avodaplusbackoffice      1 hr 3 mins         █████████████░░░░░░░░░░░░   50.24 % 
+avodaplusbackend         59 mins             ████████████░░░░░░░░░░░░░   47.44 % 
+avodaplusapp             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -76,5 +82,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2024 00:52:52 UTC
+ Last Updated on 02/05/2024 00:49:01 UTC
 <!--END_SECTION:waka-->
