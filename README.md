@@ -29,6 +29,8 @@ Currently a student at 42 Madrid.
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 142 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 59 Public Repositories 
@@ -49,21 +51,16 @@ Currently a student at 42 Madrid.
 
 ```text
 💬 Programming Languages: 
-Vue.js                   3 hrs 12 mins       ██████████████░░░░░░░░░░░   56.72 % 
-TypeScript               1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-GraphQL                  51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-avodaplusbackoffice      3 hrs 43 mins       █████████████████░░░░░░░░   66.02 % 
-avodaplusbackend         1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.28 % 
-avodaplusapp             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -79,5 +76,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2024 00:56:02 UTC
+ Last Updated on 13/05/2024 00:51:36 UTC
 <!--END_SECTION:waka-->
