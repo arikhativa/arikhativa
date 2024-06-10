@@ -29,8 +29,6 @@ Currently a student at 42 Madrid.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 213 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 60 Public Repositories 
@@ -76,5 +74,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2024 00:57:26 UTC
+ Last Updated on 10/06/2024 00:53:47 UTC
 <!--END_SECTION:waka-->
