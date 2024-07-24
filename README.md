@@ -1,7 +1,6 @@
 
 # Heyyy 😃
-My name is Yoav Rabby and I am a software developer with 2 years of experience.
-Currently a student at 42 Madrid.
+My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 ## Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
