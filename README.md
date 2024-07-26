@@ -28,7 +28,7 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 311 Contributions in the Year 2024
+> 🏆 314 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -39,9 +39,9 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9051 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+🌞 Morning                9054 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 🌆 Daytime                27593 commits       ███████████████░░░░░░░░░░   58.21 % 
-🌃 Evening                9805 commits        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌃 Evening                9805 commits        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
 🌙 Night                  950 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
@@ -50,16 +50,21 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 50 mins        █████████████░░░░░░░░░░░░   50.83 % 
+SCSS                     1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+HTML                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tobi                     3 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      2 hrs 6 mins        ███████████████░░░░░░░░░░   58.01 % 
+Linux                    1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   41.99 % 
 ```
 
 **I Mostly Code in C** 
@@ -75,5 +80,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2024 00:57:28 UTC
+ Last Updated on 26/07/2024 00:55:08 UTC
 <!--END_SECTION:waka-->
