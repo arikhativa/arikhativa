@@ -32,6 +32,8 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 701 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 66 Public Repositories 
@@ -83,5 +85,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2024 01:03:26 UTC
+ Last Updated on 03/11/2024 01:08:58 UTC
 <!--END_SECTION:waka-->
