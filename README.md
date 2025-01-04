@@ -32,8 +32,6 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 67 Public Repositories 
@@ -54,20 +52,16 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 16 mins       ███████████████████████░░   91.74 % 
-Git                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hamoked-cms              3 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -83,5 +77,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2025 01:05:49 UTC
+ Last Updated on 04/01/2025 01:06:58 UTC
 <!--END_SECTION:waka-->
