@@ -54,16 +54,19 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 21 mins       █████████████████████████   99.88 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hamoked-cms              4 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -79,5 +82,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2025 01:07:42 UTC
+ Last Updated on 07/01/2025 01:05:45 UTC
 <!--END_SECTION:waka-->
