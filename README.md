@@ -54,16 +54,16 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 ```text
 💬 Programming Languages: 
-Bash                     2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -79,5 +79,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2025 01:13:52 UTC
+ Last Updated on 29/06/2025 01:23:01 UTC
 <!--END_SECTION:waka-->
