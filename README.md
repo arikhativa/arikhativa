@@ -32,7 +32,7 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 182 Contributions in the Year 2025
+> 🏆 183 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -40,32 +40,6 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9404 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-🌆 Daytime                28922 commits       ███████████████░░░░░░░░░░   58.58 % 
-🌃 Evening                10095 commits       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌙 Night                  950 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -79,5 +53,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 01:23:56 UTC
+ Last Updated on 02/07/2025 01:19:08 UTC
 <!--END_SECTION:waka-->
