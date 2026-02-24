@@ -44,7 +44,7 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 ```text
 🌞 Morning                50999 commits       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-🌆 Daytime                105777 commits      ██████████████░░░░░░░░░░░   57.77 % 
+🌆 Daytime                105800 commits      ██████████████░░░░░░░░░░░   57.77 % 
 🌃 Evening                25387 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 🌙 Night                  950 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
@@ -54,38 +54,38 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 45 mins       ███████████████████████░░   93.78 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               9 hrs 46 mins       ███████████████████████░░   90.82 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flashcards               5 hrs 37 mins       ██████████████░░░░░░░░░░░   54.07 % 
-chatbot                  4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.52 % 
-flashcards-old           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-vite-app                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-israela                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+flashcards               5 hrs 37 mins       █████████████░░░░░░░░░░░░   52.30 % 
+chatbot                  4 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.16 % 
+israela                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+flashcards-old           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+vite-app                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Linux                    10 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
 
 ```text
-TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 
 
 
- Last Updated on 23/02/2026 01:54:42 UTC
+ Last Updated on 24/02/2026 01:50:29 UTC
 <!--END_SECTION:waka-->
