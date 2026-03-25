@@ -43,9 +43,9 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                51629 commits       ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-🌆 Daytime                106739 commits      ██████████████░░░░░░░░░░░   57.77 % 
-🌃 Evening                25439 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+🌞 Morning                51715 commits       ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+🌆 Daytime                106853 commits      ██████████████░░░░░░░░░░░   57.77 % 
+🌃 Evening                25445 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 🌙 Night                  950 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
@@ -54,38 +54,38 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 13 mins       ██████████████░░░░░░░░░░░   54.78 % 
-JSON                     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-PHP                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-CSS                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+TypeScript               7 hrs 55 mins       █████████████░░░░░░░░░░░░   52.27 % 
+PHP                      2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+JSON                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+CSS                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+HTML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  15 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flashcards               6 hrs 57 mins       ████████████░░░░░░░░░░░░░   46.33 % 
-chatbot                  3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-radical-wpe-prod         2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-MeirMarchovich           1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-serverlesslib            58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+flashcards               8 hrs 14 mins       ██████████████░░░░░░░░░░░   54.31 % 
+radical-wpe-prod         2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+chatbot                  1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+MeirMarchovich           1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+serverlesslib            58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 
 💻 Operating System: 
-Linux                    15 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    15 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
 
 ```text
-TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               23 repos            ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 
 
 
- Last Updated on 24/03/2026 01:54:17 UTC
+ Last Updated on 25/03/2026 01:53:04 UTC
 <!--END_SECTION:waka-->
