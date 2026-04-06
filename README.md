@@ -43,8 +43,8 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                51686 commits       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-🌆 Daytime                106277 commits      ██████████████░░░░░░░░░░░   57.65 % 
+🌞 Morning                51685 commits       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌆 Daytime                106279 commits      ██████████████░░░░░░░░░░░   57.66 % 
 🌃 Evening                25422 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
 🌙 Night                  950 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
@@ -54,17 +54,16 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-chatbot                  3 mins              ██████████████████░░░░░░░   70.28 % 
-flashcards               1 min               ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -80,5 +79,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2026 02:51:32 UTC
+ Last Updated on 06/04/2026 02:58:55 UTC
 <!--END_SECTION:waka-->
