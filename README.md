@@ -32,19 +32,19 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 231 Contributions in the Year 2026
+> 🏆 241 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 74 Public Repositories 
+> 📜 75 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                58931 commits       ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-🌆 Daytime                120014 commits      ██████████████░░░░░░░░░░░   57.66 % 
+🌞 Morning                58932 commits       ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+🌆 Daytime                120029 commits      ██████████████░░░░░░░░░░░   57.66 % 
 🌃 Evening                28246 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 🌙 Night                  950 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
@@ -69,15 +69,15 @@ No Activity Tracked This Week
 **I Mostly Code in C** 
 
 ```text
-TypeScript               23 repos            ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+TypeScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 
 
 
 
- Last Updated on 29/04/2026 03:43:11 UTC
+ Last Updated on 30/04/2026 03:28:54 UTC
 <!--END_SECTION:waka-->
