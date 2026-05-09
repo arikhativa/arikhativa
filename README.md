@@ -32,11 +32,11 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 269 Contributions in the Year 2026
+> 🏆 271 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 75 Public Repositories 
+> 📜 76 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -69,15 +69,15 @@ No Activity Tracked This Week
 **I Mostly Code in C** 
 
 ```text
-TypeScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript               25 repos            ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 
 
 
 
- Last Updated on 08/05/2026 03:56:08 UTC
+ Last Updated on 09/05/2026 03:29:48 UTC
 <!--END_SECTION:waka-->
