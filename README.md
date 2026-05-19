@@ -40,18 +40,44 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                68736 commits       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌆 Daytime                137551 commits      ██████████████░░░░░░░░░░░   57.61 % 
+🌃 Evening                31537 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+🌙 Night                  950 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
-TypeScript               25 repos            ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               25 repos            ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 
 
 
 
- Last Updated on 18/05/2026 04:07:45 UTC
+ Last Updated on 19/05/2026 04:05:10 UTC
 <!--END_SECTION:waka-->
