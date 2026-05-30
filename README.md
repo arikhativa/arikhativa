@@ -40,6 +40,32 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                70585 commits       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+🌆 Daytime                140661 commits      ██████████████░░░░░░░░░░░   57.59 % 
+🌃 Evening                32052 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+🌙 Night                  950 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -53,5 +79,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 04:14:23 UTC
+ Last Updated on 30/05/2026 04:03:30 UTC
 <!--END_SECTION:waka-->
