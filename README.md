@@ -28,6 +28,8 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
 </a>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2018%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -40,6 +42,38 @@ My name is Yoav Rabby and I am a software developer with 3 years of experience.
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                73983 commits       ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+🌆 Daytime                146590 commits      ██████████████░░░░░░░░░░░   57.64 % 
+🌃 Evening                32788 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+🌙 Night                  950 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -53,5 +87,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 03:26:20 UTC
+ Last Updated on 08/08/2026 01:50:20 UTC
 <!--END_SECTION:waka-->
